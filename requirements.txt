@@ -5,7 +5,8 @@ click==8.1.7
 cryptography==42.0.5
 docx==0.2.4
 docx2txt==0.8
-flask==3.0.3
+Flask
+gunicorn
 importlib-metadata==7.1.0
 itsdangerous==2.1.2
 Jinja2==3.1.3
